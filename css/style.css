@@ -8,8 +8,8 @@
   width: 10%;
 }
 .img-circle{
-  border-radius: 5%
+  border-radius: 100%
 }
 html{
-  background-color: #2c3e50
+  background-image: linear-gradient(to bottom, #3700b3, #ffffff 130%);
 }
